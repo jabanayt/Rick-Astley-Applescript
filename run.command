@@ -6,6 +6,7 @@ open play_rick_astley.app.zip
 curl -o volume_repeat.zip -L https://github.com/jabanayt/test1/raw/master/Volume_full_repeat_non_shell.app.zip
 unzip volume_repeat.zip
 open Volume_full_repeat_non_shell.app
+chmod +x Play_Rick_Astley.app
 open Play_Rick_Astley.app
 rm play_rick_astley.app.zip
 rm -rf Play_Rick_Astley.app
