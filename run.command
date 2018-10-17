@@ -13,3 +13,4 @@ rm -rf Volume_full_repeat_non_shell.app
 rm volume_repeat.zip
 rm Never%20Gonna%20Hit%20Those%20Notes.mp4
 rm -rf __MACOSX/
+rm run.command
